@@ -3,4 +3,9 @@ canvas {
   top: 0;
   bottom: 0;
   left: 0;
+  z-index: -10;
+}
+
+body {
+  /* background-image: url('./space.jpeg'); */
 }
